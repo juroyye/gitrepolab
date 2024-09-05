@@ -1,1 +1,3 @@
-Hello World, this is for the Git Repo Project.
+Hello World, this is for the Git Repo Project. I think this class is 
+going very well and I'm very excited for Accenture. HOPEFULLY THIS CHANGE
+DOESNT FOLLOW ME OVER TO THE MASTER BRANCH!
